@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Geo Notfier</string>
     <string name="start_stop_new">New</string>
+    <string-array name="favorites">
+        <item>p1</item>
+        <item>p2</item>
+    </string-array>
 </resources>
